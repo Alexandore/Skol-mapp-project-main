@@ -1,0 +1,25 @@
+body {
+    background-color: burlywood;
+    text-align: center;
+    padding: 50px;
+}
+main {
+    width: 60%;
+    margin: auto;
+    padding: 30px;
+    text-align: left;
+}
+h1 {
+    text-align: center;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+nav a {
+    color: #7a1f1f;
+}
+strong {
+    color: #7a1f1f;
+}
